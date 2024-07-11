@@ -24,7 +24,7 @@ class Home extends Component {
                     Welcome to my portfolio!
                 </h1>
                 <p>
-                    I am AbdulGoniyy Kelani, a <u>frontend engineer and a technical writer</u>.
+                    I am AbdulGoniyy Kelani, a <u>frontend engineer </u> and a <u> technical writer</u>.
                 </p>
             </div>
             <div className="header-btns">

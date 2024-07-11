@@ -2,7 +2,7 @@ export const projectsData = [
     {
         projectName: 'Youtube clone',
         projectDescription: `Youtube clone is a replica of the popular Youtube website. It has a search bar, a video player, and a video list. It also has a video player that can be used to play videos from the video list.`,
-        imageUrl: 'https://user-images.githubusercontent.com/31516195/252760801-7035e590-6138-41ef-89de-ca8c3a3bc001.png',
+        imageUrl: 'https://drive.google.com/file/d/1vB8WIW_SSDKk7CesMUcsPLrBQgnEPpPr/view?usp=sharing',
         projectUrl: 'https://my-vid.vercel.app/',
     },
     {
@@ -24,13 +24,6 @@ export const projectsData = [
             'This is an educational website that provide extra curicullum activities for children to help them overcome educational and life challenges. its to have free and paid resources that can be used by children to learn about different topics.',
         imageUrl: 'https://user-images.githubusercontent.com/31516195/170835589-1cf530d2-5a77-4b7b-8378-b19ce23f38d9.png',
         projectUrl: 'https://beautiful-beginnings.vercel.app/',
-    },
-    {
-        projectName: 'Google Search 2.0',
-        projectDescription:
-            'Google search 2.0 made with react.js and tailwind css. used RAPID API to fetch search data and Context API to manage application state.',
-        imageUrl: 'https://user-images.githubusercontent.com/31516195/172677621-420d78ca-fb8d-41b0-95f2-8f205e1ce812.png',
-        projectUrl: 'https://google-search-clone-anandbaraik.vercel.app',
     },
     {
         projectName: 'FlashType',
