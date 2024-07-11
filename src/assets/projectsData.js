@@ -1,36 +1,29 @@
 export const projectsData = [
     {
-        projectName: 'Talkible',
-        projectDescription: `A new age social media where you can connect, share, and engage in a vibrant social network.`,
+        projectName: 'Youtube clone',
+        projectDescription: `Youtube clone is a replica of the popular Youtube website. It has a search bar, a video player, and a video list. It also has a video player that can be used to play videos from the video list.`,
         imageUrl: 'https://user-images.githubusercontent.com/31516195/252760801-7035e590-6138-41ef-89de-ca8c3a3bc001.png',
-        projectUrl: 'https://talkible.vercel.app/',
+        projectUrl: 'https://my-vid.vercel.app/',
     },
     {
-        projectName: 'Bucher',
-        projectDescription: `Bücher is an e-commerce app to buy books online. It has features like cart & wishlist management, payment integration, and all the primary feature that are required in an e-commerce app.`,
+        projectName: 'Car Street',
+        projectDescription: `Car Street is an online shopping place for cars. Visitors can browse through the inventory of cars and their specifications. They can also place orders through the website. The website is also mobile-responsive and has been optimized for search engines.`,
         imageUrl: 'https://github-production-user-asset-6210df.s3.amazonaws.com/31516195/273011003-c29b4e28-b8ec-4ac0-9032-45554dae3f08.png',
-        projectUrl: 'https://bucher-store.vercel.app/',
+        projectUrl: 'https://car-street.vercel.app/',
     },
-   /* {
-        projectName: 'Health Gyan',
-        projectDescription:
-            'Do you want to get fit by exercising then you are at the right place where you can get all the exercises at single place, visit exercise details & get exercise videos, similar equipment & muscles exercise.in short `Sweat, Smile and Repeat to get healthy body & mind`',
-        imageUrl: 'https://user-images.githubusercontent.com/31516195/176998806-3b76b68c-bb02-4f39-adeb-38ad58f8086a.png',
-        projectUrl: 'https://health-gyan.vercel.app/',
-    }, */
     {
-        projectName: 'Wordle Replica',
+        projectName: 'HireUp',
         projectDescription:
-            'We all love guessing word & we all had played this hame in our childhood. recently came across such game so tried to clone it. now play & learn each day new word.',
+            'HireUp is a platform that connects skilled talents and employers. It allows companies to post their services and talents to browse through them.',
         imageUrl: 'https://user-images.githubusercontent.com/31516195/170835592-10d8c9ed-7022-45f9-b507-1d8b5e23266a.png',
-        projectUrl: 'https://wordle-replica.netlify.app/',
+        projectUrl: 'https://hireup-a367d6.webflow.io/',
     },
     {
-        projectName: 'KBC Clone',
+        projectName: 'Beautiful Beginning',
         projectDescription:
-            'Kaun Banega Crorepati is a legendary tv show hosted by Amitabh Bachchan. we all use to watch & try answer it even now, so made a clone of it. now you can play it online. presently for desktop use only.',
+            'This is an educational website that provide extra curicullum activities for children to help them overcome educational and life challenges. its to have free and paid resources that can be used by children to learn about different topics.',
         imageUrl: 'https://user-images.githubusercontent.com/31516195/170835589-1cf530d2-5a77-4b7b-8378-b19ce23f38d9.png',
-        projectUrl: 'https://anandbaraik.github.io/kaun-banega-crorepati/',
+        projectUrl: 'https://beautiful-beginnings.vercel.app/',
     },
     {
         projectName: 'Google Search 2.0',
@@ -60,13 +53,6 @@ export const projectsData = [
         imageUrl: 'https://user-images.githubusercontent.com/31516195/170092231-10fc88dc-6395-447d-add5-0129304f6686.png',
         projectUrl: 'https://anandbaraik.github.io/pokedex/',
     },
-  /*  {
-        projectName: 'Portfolio Website',
-        projectDescription:
-            'As a developer, we should definitely have our own portfolio. There are endless benefits of it. so here is one of me! made it using react.js, html & css.',
-        imageUrl: 'https://user-images.githubusercontent.com/31516195/170092193-d24327ca-f035-4074-8fde-57238ef570d6.png',
-        projectUrl: 'https://anandbaraik.github.io',
-    }, */
     {
         projectName: 'Sticky Note - PWA',
         projectDescription:
