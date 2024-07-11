@@ -47,13 +47,6 @@ export const projectsData = [
         projectUrl: 'https://anandbaraik.github.io/nameit/',
     },
     {
-        projectName: 'PokeDex',
-        projectDescription:
-            "Pokemon was a huge part of our childhood, wasn't it? Talking about pokemon brings back so many memories, but do you remember the details of each pokemon? Probably No! So here I bring you a pokedex to check all pokemons :)",
-        imageUrl: 'https://user-images.githubusercontent.com/31516195/170092231-10fc88dc-6395-447d-add5-0129304f6686.png',
-        projectUrl: 'https://anandbaraik.github.io/pokedex/',
-    },
-    {
         projectName: 'Sticky Note - PWA',
         projectDescription:
             'This sticky note is made to jot down our thoughts, it uses localstorage to store notes. we can jot down things & acess it anywhere online & offline as it is PWA application.',
