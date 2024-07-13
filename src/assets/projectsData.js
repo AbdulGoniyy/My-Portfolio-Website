@@ -1,31 +1,36 @@
+import Youtube from './youtube.PNG'
+import Carstreet from './Carstreet.PNG'
+import Beautiful from './Beatiful.PNG'
+import Hireup from './HireUp.PNG'
 export const projectsData = [
-    {
-        projectName: 'Youtube clone',
-        projectDescription: `Youtube clone is a replica of the popular Youtube website. It has a search bar, a video player, and a video list. It also has a video player that can be used to play videos from the video list.`,
-        imageUrl: 'https://drive.google.com/file/d/1vB8WIW_SSDKk7CesMUcsPLrBQgnEPpPr/view?usp=sharing',
-        projectUrl: 'https://my-vid.vercel.app/',
-    },
-    {
-        projectName: 'Car Street',
-        projectDescription: `Car Street is an online shopping place for cars. Visitors can browse through the inventory of cars and their specifications. They can also place orders through the website. The website is also mobile-responsive and has been optimized for search engines.`,
-        imageUrl: 'https://github-production-user-asset-6210df.s3.amazonaws.com/31516195/273011003-c29b4e28-b8ec-4ac0-9032-45554dae3f08.png',
-        projectUrl: 'https://car-street.vercel.app/',
-    },
-    {
+     {
         projectName: 'HireUp',
         projectDescription:
             'HireUp is a platform that connects skilled talents and employers. It allows companies to post their services and talents to browse through them.',
-        imageUrl: 'https://user-images.githubusercontent.com/31516195/170835592-10d8c9ed-7022-45f9-b507-1d8b5e23266a.png',
+        imageUrl: Hireup,
         projectUrl: 'https://hireup-a367d6.webflow.io/',
     },
     {
         projectName: 'Beautiful Beginning',
         projectDescription:
             'This is an educational website that provide extra curicullum activities for children to help them overcome educational and life challenges. its to have free and paid resources that can be used by children to learn about different topics.',
-        imageUrl: 'https://user-images.githubusercontent.com/31516195/170835589-1cf530d2-5a77-4b7b-8378-b19ce23f38d9.png',
+        imageUrl: Beautiful,
         projectUrl: 'https://beautiful-beginnings.vercel.app/',
     },
     {
+        projectName: 'Youtube clone',
+        projectDescription: `Youtube clone is a replica of the popular Youtube website. It has a search bar, a video player, and a video list. It also has a video player that can be used to play videos from the video list.`,
+        imageUrl: Youtube,
+        projectUrl: 'https://my-vid.vercel.app/',
+    },
+    {
+        projectName: 'Car Street',
+        projectDescription: `Car Street is an online shopping place for cars. Visitors can browse through the inventory of cars and their specifications. They can also place orders through the website. The website is also mobile-responsive and has been optimized for search engines.`,
+        imageUrl: Carstreet,
+        projectUrl: 'https://car-street.vercel.app/',
+    },
+   
+   /* {
         projectName: 'FlashType',
         projectDescription:
             'Having a good typing speed will always help you as a developer! Here, I present you the typing speed test application, where you can check your typing speed (in wpm) and share the results with your friends too.',
@@ -45,5 +50,5 @@ export const projectsData = [
             'This sticky note is made to jot down our thoughts, it uses localstorage to store notes. we can jot down things & acess it anywhere online & offline as it is PWA application.',
         imageUrl: 'https://user-images.githubusercontent.com/31516195/150564057-3f11be3e-d49d-4cc3-a729-d9480a4b55b2.png',
         projectUrl: 'https://sticky-note-pwa.netlify.app/',
-    }
+    } */
 ];
