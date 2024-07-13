@@ -10,18 +10,16 @@ const Modal = ({ closeModal }) => {
                 className='modal-container'
             >
                 <div className='upper-section'>
-                    <h1>Contact for services!</h1>
+                    <h1>Want to reach out to me?</h1>
                     <p onClick={closeModal} className='close'>
                         &times;
                     </p>
                 </div>
                 <div className='middle-section'>
                     <h3>
-                        I Offer Quality Services and Solutions
+                        These are my Services 
                     </h3>
-                    <p>
-                        Contact me for below services..👇
-                    </p>
+                     
                     <ul>
                         <li>
                             Web Application Development
@@ -30,7 +28,7 @@ const Modal = ({ closeModal }) => {
                             Custom Software Development
                         </li>
                         <li>
-                            Software Prototyping
+                            Software Testing
                         </li>
                         <li>
                             Technical Writing
