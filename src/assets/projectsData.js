@@ -12,7 +12,7 @@ export const projectsData = [
         projectUrl: 'https://hireup-a367d6.webflow.io/',
     },
     {
-        projectName: 'Beautiful Beginning',
+        projectName: 'Beautiful Beginnings',
         projectDescription:
             'This is an educational website that provide extra curicullum activities for children to help them overcome educational and life challenges. its to have free and paid resources that can be used by children to learn about different topics.',
         imageUrl: Beautiful,
