@@ -2,6 +2,7 @@ import Youtube from './youtube.PNG'
 import Carstreet from './Carstreet.PNG'
 import Beautiful from './Beatiful.PNG'
 import Hireup from './HireUp.PNG'
+import Buybestbefore from './buybestbefore.PNG'
 export const projectsData = [
      {
         projectName: 'HireUp',
@@ -32,7 +33,7 @@ export const projectsData = [
     {
         projectName: 'Buy Best Before',
         projectDescription: `Buy best before is a platform where users buy and sell goods that are nearing thier expirations date. The products are tagged with countdown of thier expirations and they displayed "EXPIRED" once they reach expiration. Intrested buyers buys the products they are intrested in amisdt arrays of products`,
-        imageUrl: Carstreet,
+        imageUrl: Buybestbefore,
         projectUrl: 'https://buybestbefore.vercel.app',
     },
    
