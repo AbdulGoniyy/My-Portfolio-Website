@@ -1,6 +1,6 @@
 import Youtube from './youtube.PNG'
 import Carstreet from './Carstreet.PNG'
-import Beautiful from './Beatiful.PNG'
+import Beautiful from './Beautiful.PNG'
 import Hireup from './HireUp.PNG'
 import Buybestbefore from './buybestbefore.PNG'
 export const projectsData = [
