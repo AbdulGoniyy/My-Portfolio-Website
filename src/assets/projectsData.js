@@ -1,7 +1,7 @@
 import Youtube from './youtube.PNG'
 import Carstreet from './Carstreet.PNG'
 import Beautiful from './Beautiful.PNG'
-import Hireup from './HireUp.PNG'
+import Hireup from './Hireup.PNG'
 import Buybestbefore from './buybestbefore.PNG'
 export const projectsData = [
      {
@@ -20,7 +20,7 @@ export const projectsData = [
     },
     {
         projectName: 'Youtube clone',
-        projectDescription: `Youtube clone is a replica of the popular Youtube website. It has a search bar, a video player, and a video list. It also has a video player that can be used to play videos from the video list.`,
+        projectDescription: `Youtube clone is a replica of the popular Youtube website. It has a search bar, video list, trending videos sections, etc. It also has a video player that can be used to play videos from the video list.`,
         imageUrl: Youtube,
         projectUrl: 'https://my-vid.vercel.app/',
     },
