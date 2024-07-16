@@ -30,14 +30,14 @@ export const projectsData = [
         imageUrl: Carstreet,
         projectUrl: 'https://car-street.vercel.app/',
     },
-    {
+ /*   {
         projectName: 'Buy Best Before',
         projectDescription: `Buy best before is a platform where users buy and sell goods that are nearing thier expirations date. The products are tagged with countdown of thier expirations and they displayed "EXPIRED" once they reach expiration. Intrested buyers buys the products they are intrested in amisdt arrays of products`,
         imageUrl: Buybestbefore,
         projectUrl: 'https://buybestbefore.vercel.app',
     },
    
-   /* {
+    {
         projectName: 'FlashType',
         projectDescription:
             'Having a good typing speed will always help you as a developer! Here, I present you the typing speed test application, where you can check your typing speed (in wpm) and share the results with your friends too.',
