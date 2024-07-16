@@ -4,13 +4,6 @@ import Beautiful from './Beautiful.PNG'
 import Hireup from './Hireup.PNG'
 import Buybestbefore from './buybestbefore.PNG'
 export const projectsData = [
-     {
-        projectName: 'HireUp',
-        projectDescription:
-            'HireUp is a platform that connects skilled talents and employers. It allows companies to post their services and talents to browse through them.',
-        imageUrl: Hireup,
-        projectUrl: 'https://hireup-a367d6.webflow.io/',
-    },
     {
         projectName: 'Beautiful Beginnings',
         projectDescription:
@@ -29,6 +22,13 @@ export const projectsData = [
         projectDescription: `Car Street is an online shopping place for cars. Visitors can browse through the inventory of cars and their specifications. They can also place orders through the website. The website is also mobile-responsive and has been optimized for search engines.`,
         imageUrl: Carstreet,
         projectUrl: 'https://car-street.vercel.app/',
+    },
+     {
+        projectName: 'HireUp',
+        projectDescription:
+            'HireUp is a platform that connects skilled talents and employers. It allows companies to post their services and talents to browse through them.',
+        imageUrl: Hireup,
+        projectUrl: 'https://hireup-a367d6.webflow.io/',
     },
  /*   {
         projectName: 'Buy Best Before',
