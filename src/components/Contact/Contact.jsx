@@ -7,9 +7,8 @@ import gitHub from "./../../assets/gh.png";
 import instaGram from "./../../assets/in.png";
 import linkedIn from "./../../assets/li.png";
 import medium from "./../../assets/me.png";
-import web from "./../../assets/web.png";
-import hashnode from "./../../assets/hashnode.png";
 import { useForm, ValidationError } from '@formspree/react';
+
 function Contact() {
   const [state, handleSubmit] = useForm("mdobenlw");
   if (state.succeeded){

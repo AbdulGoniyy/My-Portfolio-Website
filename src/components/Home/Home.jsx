@@ -23,7 +23,7 @@ class Home extends Component {
                 <h1>
                     Welcome to my portfolio!
                 </h1>
-                <p>
+                <p className="name">
                     I am AbdulGoniyy Kelani, a <u>frontend engineer </u> and a <u> technical writer</u>.
                 </p>
             </div>

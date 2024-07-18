@@ -35,7 +35,8 @@ export const skillList = [
     {
         skillName: 'GitHub',
         skillUrl: GitHub,
-    }, /* 
+    },
+     /* 
     {
         skillName: 'MongoDB',
         skillUrl: 'https://user-images.githubusercontent.com/31516195/170096317-6eabc365-6fb1-41e2-b699-ea18f202a145.png',

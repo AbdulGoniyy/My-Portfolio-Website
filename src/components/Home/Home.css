@@ -29,7 +29,7 @@
     font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 600;
-    font-size: 16px;
+    font-size: 18px;
     line-height: 20px;
     color: #e5e5e5;
     margin: 10px;
@@ -71,7 +71,7 @@
     font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 500;
-    font-size: 16px;
+    font-size: 18px;
     line-height: 16px;
     letter-spacing: 0.2px;
     text-align: center;
@@ -85,7 +85,7 @@
 .home-anim{
     margin-bottom: -80px;
 }
-
+ 
 /* For small height screen sizes */
 @media only screen and (max-height: 550px) {
     .home-anim {
