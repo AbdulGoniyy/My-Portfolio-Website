@@ -13,12 +13,13 @@
     display: flex;
     flex-direction: column;
     text-align: center;
+    
 }
 .header-text > h1{
     font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 900;
-    font-size: 3rem;
+    font-size: 3.2rem;
     line-height: 62px;
     text-align: center;
     letter-spacing: 0.2px;
