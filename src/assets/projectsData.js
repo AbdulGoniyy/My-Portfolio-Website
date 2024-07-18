@@ -37,7 +37,7 @@ export const projectsData = [
         imageUrl: Hireup,
         projectUrl: 'https://hireup-a367d6.webflow.io/',
     },
-    {
+    /* {
         projectName: 'Buy Best Before',
         projectDescription: `Buy best before is a platform where users buy and sell goods that are nearing thier expirations date. The products are tagged with countdown of thier expirations and they displayed "EXPIRED" once they reach expiration. Intrested buyers buys the products they are intrested in amisdt arrays of products`,
         imageUrl: Buybestbefore,
