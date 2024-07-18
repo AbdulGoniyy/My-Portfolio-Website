@@ -29,7 +29,10 @@ function Contact() {
                 Thanks for the submission!
             </div>
         }
-        <form className='contact-form' onSubmit={handleSubmit}
+        <form
+        action="https://formspree.io/f/manwnzpn"
+         method="POST"
+        className='contact-form' onSubmit={handleSubmit}
         id='contact-form'>
           <input type="email" className='input-box email-input'
             placeholder='Your Email Id' name='email' required/>
