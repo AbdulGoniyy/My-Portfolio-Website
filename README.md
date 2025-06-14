@@ -1,4 +1,4 @@
- ## AbdulGoniyy Kelani 
+ ## SilentSage+
 
 My Portfolio was made with ReactJs. it has my projects & skills among others.
 
