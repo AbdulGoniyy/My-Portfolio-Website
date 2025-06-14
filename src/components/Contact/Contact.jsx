@@ -60,7 +60,7 @@ function Contact() {
           target="_blank" rel="noreferrer">
           <img src={gitHub} alt='github' loading="lazy"/>
         </a>
-        <a href="https://www.linkedin.com/in/anandbaraik/"
+        <a href="https://www.linkedin.com/in/olamide-kelani-2338b42a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
           className='social-icon'
           target="_blank" rel="noreferrer">
           <img src={linkedIn} alt='linkedin' loading="lazy"/>
